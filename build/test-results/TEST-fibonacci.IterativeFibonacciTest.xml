@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fibonacci.IterativeFibonacciTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2016-03-31T19:35:09" hostname="DESKTOP-FSUCAJD" time="0.015">
+  <properties/>
+  <testcase name="canary" classname="fibonacci.IterativeFibonacciTest" time="0.0"/>
+  <testcase name="calculateMethodReturnsOneForInputNumber0" classname="fibonacci.IterativeFibonacciTest" time="0.015"/>
+  <testcase name="calculateMethodReturnsOneForInputNumber1" classname="fibonacci.IterativeFibonacciTest" time="0.0"/>
+  <testcase name="calculateMethodReturnsRightErrorForNegativeInput" classname="fibonacci.IterativeFibonacciTest" time="0.0"/>
+  <testcase name="calculateMethodReturnsCorrectResultForInput2" classname="fibonacci.IterativeFibonacciTest" time="0.0"/>
+  <testcase name="calculateMethodReturnsCorrectResultForInput3" classname="fibonacci.IterativeFibonacciTest" time="0.0"/>
+  <testcase name="calculateMethodReturnsCorrectResultForInput4" classname="fibonacci.IterativeFibonacciTest" time="0.0"/>
+  <testcase name="calculateMethodReturnsCorrectResultForInput6" classname="fibonacci.IterativeFibonacciTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
