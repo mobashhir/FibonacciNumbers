@@ -33,7 +33,7 @@ public abstract class FibonacciTest {
         try {
             fibonacci.calculate(-1);
         } catch (IllegalArgumentException e) {
-            assertEquals("Enter a positive number.", e.getMessage());
+            assertEquals("Enter a positive number.", e.getMessage()); 
         }
     }
 
