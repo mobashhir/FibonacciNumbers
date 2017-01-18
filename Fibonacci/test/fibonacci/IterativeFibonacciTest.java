@@ -12,6 +12,6 @@ public class IterativeFibonacciTest extends FibonacciTest {
     }
 
     public Fibonacci createInstanceOfFibonacci() {
-        return new IterativeFibonacci();
+        return new IterativeFibonacci();  
     }
 }
