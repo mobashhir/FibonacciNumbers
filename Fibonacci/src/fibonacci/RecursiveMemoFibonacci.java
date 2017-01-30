@@ -20,6 +20,5 @@ public class RecursiveMemoFibonacci extends RecursiveFibonacci {
             return calculatedFibonacci.compute(position,(integer, bigInteger) -> super.calculate(position));
 
         return calculatedFibonacci.get(position);
-
     }
 }
